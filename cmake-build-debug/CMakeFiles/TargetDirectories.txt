@@ -1,0 +1,10 @@
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/quicksort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/bubblesort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/mergesort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/insertsort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/selectsort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/shellsort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/heapsort.dir
+/home/xie/CLionProjects/sort/cmake-build-debug/CMakeFiles/sort.dir
